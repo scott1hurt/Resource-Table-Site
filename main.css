@@ -1,0 +1,44 @@
+/*CSS Rulesets consist of three parts: */
+/* 1. Selector to select what elememwnt you're styling */
+/* 2. Declaration block where your CSS  goes */
+/* 3. Declarations of CSS rules inside the declaration block */
+
+
+table {
+    /*set the width of the elements to 100%of the parent elememnt */
+    width:100%;
+    background-color: white;
+    <head>
+        <title> Resource Table Site </title>
+        <meta name="author" content="Scott Hurt">
+        <meta name="description" content="this is a site we use to list resources for web development.">
+        <meta charset="UTF-8">
+        <meta name= "viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            body{
+                background-color: gray;
+                font-size: 30pt;
+                h1{
+                    font-size:24pt;
+                }
+            }
+            </style>
+            <link rel="stylesheet" href=">
+        h1{
+                text-align:center;
+                /* aligning the ext for h1 to center */
+        </style>
+        th {
+            /* upping the font size for table headers */
+            font-size: 20
+            /* underline the table headers */
+    
+            text-declaration: underline;
+        }
+        td{ 
+            text-align:center;
+            font-size: 16pt
+
+
+    </head>
+}
